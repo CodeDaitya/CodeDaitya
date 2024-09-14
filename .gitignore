@@ -1,0 +1,40 @@
+# Build artifacts
+dist/
+node_modules/
+.vite/
+.cache/
+.DS_Store
+.git/
+.idea/
+.vscode/
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Temporary files
+*.swp
+*.bak
+*.tmp
+*.log
+*.pid
+*.sock
+*.sync
+*.lock
+*.log
+
+# IDE-specific files
+*.suo
+*.user
+*.sln
+*.vcxproj
+*.filters
+*.ipk
+*.tlog
+*.vspscc
+*.userprefs
+*.csproj
+*.sln.dot
+*.suo.dot
+*.user.dot
